@@ -1,0 +1,9 @@
+## Interface: 80000
+## Title: PortGear
+## Notes: Automatically switches out teleporting gear after use
+## Version: 4
+## Author: Kanegasi
+## DefaultState: enabled
+
+gearlist.lua
+pgcore.lua
