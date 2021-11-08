@@ -56,6 +56,8 @@ t.portgear={
 	[142469]=true, -- Violet Seal of the Grand Magus
 	[144391]=true, -- Pugilist's Powerful Punching Ring (Alliance)
 	[144392]=true, -- Pugilist's Powerful Punching Ring (Horde)
+	[166559]=true, -- Commander's Signet of Battle
+	[166560]=true, -- Captain's Signet of Command
 
 	[itemID]=true, -- new item's name
 	[itemID]=true, -- new item's name
