@@ -1,7 +1,7 @@
-## Interface: 90105
+## Interface: 100206
 ## Title: PortGear
 ## Notes: Automatically switches out teleporting gear after use
-## Version: 5
+## Version: 6
 ## Author: Kanegasi
 ## DefaultState: enabled
 
