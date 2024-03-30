@@ -29,7 +29,8 @@ function f.EquipOriginalItem()
 			d.portgearequipped[d.portgearused]=nil
 			d.portgearused=nil
 		else
-			EquipItemByName(d.gear[d.portgearused],d.portgearused)
+			-- EquipItemByName(d.gear[d.portgearused],d.portgearused) temporary disabled due to patch 10.2.6 problems
+			EquipItemByName(d.gear[d.portgearused])
 			C_Timer.After(1,f.EquipOriginalItem) -- loop to ensure original is equipped
 		end
 	end
